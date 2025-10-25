@@ -38,7 +38,7 @@ Department of Computer and Information Science, University of Michigan-Dearborn
 ---
 
 ## 📁 Repository Structure
-```text
+<pre>
 VR-Wheelchair-Ping-Pong/
 │
 ├── Project Plan and RMMM Presentation/
@@ -57,7 +57,8 @@ VR-Wheelchair-Ping-Pong/
 │ └── (Unity scenes, prefabs, builds, etc.)
 │
 └── README.md
-
+</pre>
+   
 The `VRWCPP_SenDesign/` folder contains the complete Unity project and build files, integrated from  
 [LucaIri/VRWCPP_SenDesign](https://github.com/LucaIri/VRWCPP_SenDesign) via Git subtree.
 
