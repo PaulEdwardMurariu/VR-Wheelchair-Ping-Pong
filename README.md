@@ -77,13 +77,39 @@ The `VRWCPP_SenDesign/` folder contains the complete Unity project and build fil
 1. Clone this repository:  
    ```bash
    git clone https://github.com/PaulEdwardMurariu/VR-Wheelchair-Ping-Pong.git
-   In Unity Hub, click Add → Add Project from Disk
 
-2. Select the folder:
+2.  In Unity Hub, click Add → Add Project from Disk   
+
+3. Select the folder:
 VR-Wheelchair-Ping-Pong/VRWCPP_SenDesign/
 
-3. Open the main scene in the Assets/Scenes directory
+4. Open the main scene in the Assets/Scenes directory
 
-4. Ensure SteamVR Plugin and Oculus Integration packages are installed
+5. Ensure SteamVR Plugin and Oculus Integration packages are installed
 
-5. Press ▶ Play to run the prototype in the Unity Editor or build to your VR headset
+6. Press ▶ Play to run the prototype in the Unity Editor or build to your VR headset
+
+📅 Development Timeline
+
+Fall 2024 – Winter 2025: Research, prototyping, hardware integration
+
+Spring 2025: Final gameplay features, user testing, and documentation
+
+🚀 Future Enhancements
+
+Multiplayer / Online play
+
+Player statistics and performance tracking
+
+Haptic feedback integration
+
+Expanded arenas and tournament modes
+
+🏁 Acknowledgments
+
+Special thanks to our advisors and testers who provided feedback during alpha and beta stages.
+All assets, builds, and reports are for educational and demonstration purposes only.
+
+© 2025 Team 3 — VR Wheelchair Ping Pong (Project for CIS Senior Design UM-Dearborn)
+
+---
