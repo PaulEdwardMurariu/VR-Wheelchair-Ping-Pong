@@ -38,3 +38,42 @@ Department of Computer and Information Science, University of Michigan-Dearborn
 ---
 
 ## 📁 Repository Structure
+
+VR-Wheelchair-Ping-Pong/
+│
+├── Project Plan and RMMM Presentation/
+├── Requirements Document (full SRS) Presentation/
+├── Software Quality Assurance Presentation/
+├── VR Wheelchair Ping Pong – Use Case Presentation/
+│
+├── Alpha Demo Screenshots/ ← Images from early build
+│
+├── VRWCPP_SenDesign/ ← Full Unity source + executable
+│ ├── Assets/
+│ ├── Packages/
+│ ├── ProjectSettings/
+│ ├── .gitignore
+│ ├── README.md
+│ └── (Unity scenes, prefabs, builds, etc.)
+│
+└── README.md
+
+The `VRWCPP_SenDesign/` folder contains the complete Unity project and build files, integrated from  
+[LucaIri/VRWCPP_SenDesign](https://github.com/LucaIri/VRWCPP_SenDesign) via Git subtree.
+
+---
+
+## 🧠 Key Features
+- 🏓 Realistic ball-paddle physics and collision detection  
+- 🧍‍♂️ Wheelchair-accessible motion system with smooth tracking  
+- 🤖 Adaptive AI opponent (difficulty scaling)  
+- 🎮 Intuitive menu navigation and controller input mapping  
+- ⚙️ Optimized for 60 + FPS on Oculus / SteamVR  
+- 🔉 Immersive sound and environment feedback  
+
+---
+
+## 🧭 Quick Start — Opening in Unity
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/PaulEdwardMurariu/VR-Wheelchair-Ping-Pong.git
