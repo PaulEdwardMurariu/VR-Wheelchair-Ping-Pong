@@ -89,13 +89,15 @@ VR-Wheelchair-Ping-Pong/VRWCPP_SenDesign/
 
 6. Press ▶ Play to run the prototype in the Unity Editor or build to your VR headset
 
-📅 Development Timeline
+## 📅 Development Timeline
 
 Fall 2024 – Winter 2025: Research, prototyping, hardware integration
 
 Spring 2025: Final gameplay features, user testing, and documentation
 
-🚀 Future Enhancements
+---
+
+## 🚀 Future Enhancements
 
 Multiplayer / Online play
 
@@ -105,7 +107,9 @@ Haptic feedback integration
 
 Expanded arenas and tournament modes
 
-🏁 Acknowledgments
+---
+
+## 🏁 Acknowledgments
 
 Special thanks to our advisors and testers who provided feedback during alpha and beta stages.
 All assets, builds, and reports are for educational and demonstration purposes only.
