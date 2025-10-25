@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/0_SDCDEMO/VRWCPP_1v1.unity
+    guid: 969eb935387bf254695f667dd5684bef
+  - enabled: 1
+    path: Assets/Scenes/0_SDCDEMO/VRWCPP_2v2.unity
+    guid: 102507c53a6eb494aa4827279ffb1cf4
+  - enabled: 1
+    path: Assets/Scenes/0_SDCDEMO/VRWCPP_Tutorial.unity
+    guid: 204441066bcbcc04e97f435d06d3da13
+  - enabled: 1
+    path: Assets/Scenes/PlayScene.unity
+    guid: 0a0f7c56ab634864884e942eef2827c3
+  - enabled: 1
+    path: Assets/Scenes/PauseMenuTesting.unity
+    guid: bfb115fd1ea5777458ff139889f28d84
+  - enabled: 1
+    path: Assets/Scenes/AI_TESTSCENE.unity
+    guid: 4ed22b6631bcd3242a0c98accfe79dfb
+  - enabled: 1
+    path: Assets/Scenes/Lose Scene.unity
+    guid: 4ff281ab029e9554ca8bfe015cfb37d7
+  - enabled: 1
+    path: Assets/Scenes/Win Scene.unity
+    guid: 95e779a8d84ff344aaf42df5e0cc9ef0
+  - enabled: 0
+    path: Assets/Scenes/RemadeStartScene.unity
+    guid: 62dbe429268f499438edd180dbe49cfd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: e217af671bb53a245b8ec6e376f5b8e2, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
