@@ -77,3 +77,13 @@ The `VRWCPP_SenDesign/` folder contains the complete Unity project and build fil
 1. Clone this repository:  
    ```bash
    git clone https://github.com/PaulEdwardMurariu/VR-Wheelchair-Ping-Pong.git
+   In Unity Hub, click Add → Add Project from Disk
+
+2. Select the folder:
+VR-Wheelchair-Ping-Pong/VRWCPP_SenDesign/
+
+3. Open the main scene in the Assets/Scenes directory
+
+4. Ensure SteamVR Plugin and Oculus Integration packages are installed
+
+5. Press ▶ Play to run the prototype in the Unity Editor or build to your VR headset
