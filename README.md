@@ -38,7 +38,7 @@ Department of Computer and Information Science, University of Michigan-Dearborn
 ---
 
 ## 📁 Repository Structure
-
+```text
 VR-Wheelchair-Ping-Pong/
 │
 ├── Project Plan and RMMM Presentation/
